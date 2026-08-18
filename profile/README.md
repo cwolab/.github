@@ -17,5 +17,5 @@ Currently building our first products. More soon.
   
 ### 🌐 Find us
 
-- 🌍 cwolab.com — 🚧 *under construction*
+- 🌍  [cwolab.com](https://www.cwolab.com)
 - ✉️  [hello@cwolab.com](mailto:hello@cwolab.com)
